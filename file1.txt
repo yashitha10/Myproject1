@@ -1,4 +1,5 @@
 <html>
+<title> New project </title>
 <head> The Robotics </head>
 <body>
 alert ('hello world');
